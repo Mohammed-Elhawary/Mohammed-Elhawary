@@ -25,7 +25,7 @@ I'm a backend engineer who enjoys designing clean, maintainable services and RES
 ```text
  PILOT        Mohamed El-Hawary
  ACADEMY      B.Sc. Information Technology, Borg El Arab Technological University
- GRADUATED    2026 · Excellent (93.24%) · ranked 6th in my class
+ GRADUATED    2026 · Excellent (93.24%)
  SPECIALTY    Java · Spring Boot · microservices architecture
  SECURITY     Spring Security · Keycloak (OAuth2 / JWT)
  DATA         MariaDB / MySQL · InfluxDB · Hibernate/JPA · Flyway migrations
