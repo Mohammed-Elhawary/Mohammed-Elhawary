@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/Base-Egypt-7c5cff?style=for-the-badge&labelColor=0b0d24" alt="Egypt" />
   <img src="https://komarev.com/ghpvc/?username=Mohammed-Elhawary&label=Visitors&color=7c5cff&style=for-the-badge&labelColor=0b0d24" alt="Profile views" />
   <!-- Add your links here -->
-  <!-- <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-  <!-- <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
+  <a href="www.linkedin.com/in/mohamed-saad-el-hawary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:	hawary.xom@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -30,7 +30,6 @@ I'm a backend engineer who enjoys designing clean, maintainable services and RES
  SECURITY     Spring Security · Keycloak (OAuth2 / JWT)
  DATA         MariaDB / MySQL · InfluxDB · Hibernate/JPA · Flyway migrations
  CARGO        Dockerized services, event streaming with Kafka
- NEXT MISSION Junior Java backend role
 ```
 
 ---
@@ -107,9 +106,6 @@ Seven Spring Boot services that stream smart-device readings through Kafka into 
   <img src="https://streak-stats.demolab.com?user=Mohammed-Elhawary&theme=midnight-purple&hide_border=true&background=0b0d24" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-Elhawary&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies" />
-</p>
 
 ---
 
