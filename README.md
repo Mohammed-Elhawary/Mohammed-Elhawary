@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://github.com/Mohammed-Elhawary?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0b0d24?style=for-the-badge&logo=github&logoColor=2de2c4" alt="Repositories" /></a>
   <img src="https://img.shields.io/badge/Status-Open_to_work-2de2c4?style=for-the-badge&labelColor=0b0d24" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Base-Egypt-7c5cff?style=for-the-badge&labelColor=0b0d24" alt="Egypt" />
   <img src="https://komarev.com/ghpvc/?username=Mohammed-Elhawary&label=Visitors&color=7c5cff&style=for-the-badge&labelColor=0b0d24" alt="Profile views" />
   <!-- Add your links here -->
   <a href="www.linkedin.com/in/mohamed-saad-el-hawary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
